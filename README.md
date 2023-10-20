@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Himangshu30
-- 👀 I'm Security Bug Hunter
+- 👀 I'm Security Researcher and Bug Hunter
 - 🌱 I’m currently learning Cryptography ...
 - 💞️ I’m looking to collaborate on some projects...
 
