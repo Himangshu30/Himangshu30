@@ -103,9 +103,13 @@ Attacker → Victim → Zeek → Splunk → Detection Dashboard
 # 🔐 Application Security Tools
 
 <p>
-<img src="https://upload.wikimedia.org/wikipedia/commons/2/2c/BurpSuiteLogo.png" width="40"/>
-<img src="https://www.vectorlogo.zone/logos/owasp/owasp-icon.svg" width="40"/>
-<img src="https://www.vectorlogo.zone/logos/zaproxy/zaproxy-icon.svg" width="40"/>
+## Application Security Tools
+
+![BurpSuite](https://img.shields.io/badge/BurpSuite-orange?style=for-the-badge)
+![OWASP](https://img.shields.io/badge/OWASP-black?style=for-the-badge)
+![SQLMap](https://img.shields.io/badge/SQLMap-red?style=for-the-badge)
+![Nuclei](https://img.shields.io/badge/Nuclei-blue?style=for-the-badge)
+![FFUF](https://img.shields.io/badge/FFUF-grey?style=for-the-badge)
 </p>
 
 Tools
