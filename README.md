@@ -1,11 +1,33 @@
-- 👋 Hi, I’m @Himangshu30
-- 👀 I'm Security Researcher and Bug Hunter
-- 🌱 I’m currently learning Cryptography ...
-- 💞️ I’m looking to collaborate on some projects...
+# Hi, I'm Himangshu Sarkar
 
+Cybersecurity Engineer | Cloud Security | Red Team | Detection Engineering
 
+Skills
+- Application Security
+- Cloud Security (AWS)
+- Red Teaming
+- Blue Teaming
+- Python / Go / Bash
 
-<!---
-Himangshu30/Himangshu30 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Projects
+
+AI-Driven DDoS Defense
+Real-time ML detection for DDoS attacks.
+
+JWT Honeypot System
+Detect token abuse and attacker behavior.
+
+AWS S3 Enumeration with Lambda
+Cloud misconfiguration discovery automation.
+
+Tools
+- Burp Suite
+- Nmap
+- Zeek
+- Splunk
+- AWS Security Hub
+
+Connect
+LinkedIn
+Blog
+Portfolio
