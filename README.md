@@ -2,20 +2,20 @@
 <h3 align="center">Cybersecurity Engineer | Cloud Security | Red Team | Detection Engineering</h3>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=Himangshu30&label=Profile%20Views&color=0e75b6&style=flat"/>
+<img src="https://komarev.com/ghpvc/?username=Himangshu30&label=Profile%20Views&color=blue&style=flat"/>
 </p>
 
 ---
 
 # 👨‍💻 About Me
 
-🔐 Cybersecurity enthusiast focused on **Offensive Security, Cloud Security, and Detection Engineering**
+🔐 Cybersecurity enthusiast focused on **Application Security, Cloud Security, Red Teaming and Threat Detection**
 
 🎓 Computer Science Engineer from **University Institute of Technology, Burdwan**
 
-☁️ Experienced in **AWS Security Architecture, Monitoring, and Threat Detection**
+☁️ Experienced in **AWS Security Architecture, Cloud Monitoring and Security Automation**
 
-🛡️ Passionate about **Red Teaming, Blue Teaming, Bug Bounty, and Security Automation**
+🛡️ Skilled in **Web Security Testing, Bug Bounty Hunting, SOC Monitoring and Network Security**
 
 💡 I build tools and labs to simulate **real-world cyber attacks and defenses**
 
@@ -28,13 +28,13 @@
 ### 🛡 AI-Driven DDoS Defense
 🔗 https://github.com/Himangshu30/AI-Driven-DDoS-Defense-Smarter-Network-Protection
 
-- Machine learning based anomaly detection  
-- Real-time traffic monitoring  
-- AWS cloud architecture for mitigation  
+- ML-based anomaly detection  
+- Real-time network traffic monitoring  
+- AWS-based mitigation architecture  
 
 ---
 
-### ☁️ AWS S3 Bucket Enumeration using Lambda
+### ☁️ AWS S3 Enumeration using Lambda
 🔗 https://github.com/Himangshu30/AWS-S3-Bucket-s-and-Object-s-Enumaration-using-Lambda
 
 - Detect exposed S3 buckets  
@@ -48,7 +48,7 @@
 
 - Detect malicious token usage  
 - Track attacker behavior  
-- API security research project  
+- API security research  
 
 ---
 
@@ -57,14 +57,17 @@
 
 - Offensive security framework  
 - Remote command execution  
-- Red team simulation tool  
+- Red team simulation  
 
 ---
 
 ### 🌐 Docker Based Network Traffic Analyzer
 
 Architecture
+
+```
 Attacker → Victim → Zeek → Splunk → Detection Dashboard
+```
 
 - Containerized SOC lab  
 - Network threat monitoring  
@@ -72,34 +75,108 @@ Attacker → Victim → Zeek → Splunk → Detection Dashboard
 
 ---
 
-# 🛠 Technologies & Tools
+# 🧠 Cybersecurity Skills
 
-### Programming Languages
+- Application Security Testing
+- Cloud Security (AWS)
+- Bug Bounty Hunting
+- Red Teaming
+- Blue Teaming
+- Threat Detection
+- Security Automation
+- Network Security
+- Web Exploitation
 
-<p align="left">
+---
+
+# 💻 Programming Languages
+
+<p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
 </p>
 
 ---
 
-### Cybersecurity Tools
+# 🔐 Application Security Tools
 
-<p align="left">
-<img src="https://www.vectorlogo.zone/logos/nmap/nmap-icon.svg" width="40"/>
+<p>
 <img src="https://upload.wikimedia.org/wikipedia/commons/2/2c/BurpSuiteLogo.png" width="40"/>
-<img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" width="40"/>
-<img src="https://www.vectorlogo.zone/logos/splunk/splunk-icon.svg" width="40"/>
+<img src="https://www.vectorlogo.zone/logos/owasp/owasp-icon.svg" width="40"/>
+<img src="https://www.vectorlogo.zone/logos/zaproxy/zaproxy-icon.svg" width="40"/>
 </p>
+
+Tools
+
+- Burp Suite
+- OWASP ZAP
+- ffuf
+- sqlmap
+- nuclei
+- katana
 
 ---
 
-### Cloud Platforms
+# 🌐 Network Security Tools
 
-<p align="left">
+<p>
+<img src="https://www.vectorlogo.zone/logos/nmap/nmap-icon.svg" width="40"/>
+<img src="https://www.vectorlogo.zone/logos/wireshark/wireshark-icon.svg" width="40"/>
+</p>
+
+Tools
+
+- Nmap
+- tcpdump
+- Wireshark
+- Zeek
+- Suricata
+
+---
+
+# ☁️ Cloud Security
+
+<p>
 <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" width="40"/>
 <img src="https://cdn.worldvectorlogo.com/logos/google-cloud-1.svg" width="40"/>
+</p>
+
+Services
+
+- AWS IAM
+- AWS WAF
+- AWS Shield
+- AWS CloudWatch
+- S3 Security Monitoring
+- Lambda Security Automation
+
+---
+
+# 🛡 SOC / Detection Tools
+
+<p>
+<img src="https://www.vectorlogo.zone/logos/splunk/splunk-icon.svg" width="40"/>
+<img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" width="40"/>
+</p>
+
+Tools
+
+- Splunk
+- ELK Stack
+- Zeek
+- Log Analysis
+- Threat Detection
+
+---
+
+# 🐳 DevOps & Infrastructure
+
+<p>
+<img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
 </p>
 
 ---
@@ -124,19 +201,9 @@ Attacker → Victim → Zeek → Splunk → Detection Dashboard
 
 ---
 
-# 🧠 Current Focus
-
-- Advanced **Cloud Security Monitoring**
-- **Detection Engineering**
-- **Bug Bounty Automation**
-- **SOC Threat Detection**
-- **Red Team Labs**
-
----
-
 # 📫 Connect With Me
 
-<p align="left">
+<p>
 
 <a href="https://github.com/Himangshu30">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
@@ -154,4 +221,4 @@ Attacker → Victim → Zeek → Splunk → Detection Dashboard
 
 ---
 
-⭐ If you like my work, consider **starring my repositories**!
+⭐ If you like my work, consider **starring my repositories**
